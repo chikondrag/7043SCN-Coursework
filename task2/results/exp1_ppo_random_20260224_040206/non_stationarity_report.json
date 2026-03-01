@@ -1,0 +1,26 @@
+{
+  "0": {
+    "type": "defensive",
+    "nonstationarity_score": 0.0,
+    "win_rate": 0.0,
+    "trend": 0.0,
+    "total_games": 0,
+    "consistency_score": 1.0
+  },
+  "1": {
+    "type": "defensive",
+    "nonstationarity_score": 0.0,
+    "win_rate": 0.0,
+    "trend": 0.0,
+    "total_games": 0,
+    "consistency_score": 1.0
+  },
+  "2": {
+    "type": "defensive",
+    "nonstationarity_score": 0.0,
+    "win_rate": 0.0,
+    "trend": 0.0,
+    "total_games": 0,
+    "consistency_score": 1.0
+  }
+}

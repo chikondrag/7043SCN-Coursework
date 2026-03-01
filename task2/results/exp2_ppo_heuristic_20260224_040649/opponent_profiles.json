@@ -1,0 +1,32 @@
+{
+  "0": {
+    "opponent_id": 0,
+    "name": "Opponent_0",
+    "win_rate": 0.0,
+    "total_games": 0,
+    "total_wins": 0,
+    "aggression_score": 0.0,
+    "consistency_score": 0.0,
+    "average_hand_size": 0.0
+  },
+  "1": {
+    "opponent_id": 1,
+    "name": "Opponent_1",
+    "win_rate": 0.0,
+    "total_games": 0,
+    "total_wins": 0,
+    "aggression_score": 0.0,
+    "consistency_score": 0.0,
+    "average_hand_size": 0.0
+  },
+  "2": {
+    "opponent_id": 2,
+    "name": "Opponent_2",
+    "win_rate": 0.0,
+    "total_games": 0,
+    "total_wins": 0,
+    "aggression_score": 0.0,
+    "consistency_score": 0.0,
+    "average_hand_size": 0.0
+  }
+}

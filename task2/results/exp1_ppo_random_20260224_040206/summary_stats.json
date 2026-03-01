@@ -1,0 +1,9 @@
+{
+  "total_games_recorded": 0,
+  "opponent_types": {
+    "opponent_0": "defensive",
+    "opponent_1": "defensive",
+    "opponent_2": "defensive"
+  },
+  "average_nonstationarity": 0.0
+}
